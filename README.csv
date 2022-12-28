@@ -1,4 +1,4 @@
-index,Año,Precio de Cerveza,Precio de Gaseosa,TASA IGV,CantidadDEPRODUCTOPORAÑOSCOMPRADO
+index,Año,PreciodeCerveza,PreciodeGaseosa,TASAIGV,CantidadDEPRODUCTOPORAÑOSCOMPRADO
 0,2010,2.5,1.0,5.1,90000
 1,2011,3.0,1.0,5.6,230000
 2,2012,3.5,1.5,6.8,2000000
